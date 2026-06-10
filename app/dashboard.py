@@ -14,7 +14,7 @@ st.set_page_config(
 # --------------------------------
 # LOAD DATA
 # --------------------------------
-df = pd.read_csv("../data/student_clean.csv")
+df = pd.read_csv("data/student_clean.csv")
 
 # --------------------------------
 # DATA CLEANING
