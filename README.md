@@ -79,4 +79,4 @@ Streamlit Cloud
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/Dashbord.png)
+![Dashboard](screenshots/Dashboard.png)
